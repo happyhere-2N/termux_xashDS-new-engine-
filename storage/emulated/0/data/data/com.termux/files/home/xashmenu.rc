@@ -19,7 +19,7 @@ CHOICE=$(dialog --clear \
 clear
 case $CHOICE in
         1)
-            cd && cd ubuntu-fs/usr/games && rm -rf xash && cd && cd /storage/emulated/0/download/termux-xash3d/gamelib && clear && echo "[[ COPYING XASHFILES...]]" && rsync -avh --delete --progress xash /data/data/com.termux/files/home/ubuntu-fs/usr/games && cd && ./start-ubuntu.sh
+            cd && cd ubuntu-fs/usr/games && rm -rf xash && cd && cd /storage/emulated/0/download/termux-xash3d/gamelib && clear && echo "[[ COPYING XASHFILES...]]" && cp -rf xash /data/data/com.termux/files/home/ubuntu-fs/usr/games && cd && ./start-ubuntu.sh
             ;;
         2)
            cd && cd /storage/emulated/0/download/termux-xash3d/gamelib/xash/cstrike && nano server.cfg && cd && bash xashmenu.rc

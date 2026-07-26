@@ -34,6 +34,8 @@ By [termux-xashDS] you can run dedicated server with latest HLDS updates with ne
 - yapb 4.2.598
 - jk_botti for hldm
 
+# **new other mithod to run xashds try [XASH_LAN_MOBILE](https://github.com/happyhere-2N/XASH_LAN_MOBILE)**
+
 _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 # **Dedicated file library use it:**

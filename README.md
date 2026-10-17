@@ -1,7 +1,7 @@
 # termux_xashDS-49
 
 
-By [termux-xashDS] you can run dedicated server with latest HLDS updates with new engine and old engine DS libs on Android using termux.
+By [termux-xashDS] you can run dedicated server with latest HLDS updates with new engine DS libs on Android using termux.
 
 -If you don't know what I'm talking about chek [xash3D-Fwgs](https://github.com/FWGS/xash3d-fwgs)
 
@@ -74,7 +74,7 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 # // how to runing server
 
-just select what u wont from dialog.box
+just select what u wont from menu
 
 **-to** launch any gamemod server hl/cs/bhl/tfc.. u can do that manual first select start-server and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
 tipe: './xash -game gamemod..'

@@ -48,7 +48,7 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 **1 -** download latest termux version from [F-droid](https://f-droid.org/fr/packages/com.termux/)
 
-**2 -** download  xash dedicated server full update from [Releases](https://github.com/happyhere-2N/termux_xashDS-new-engine-/releases/tag/termux-xashds-49) and extract it on download folder
+**2 -** download  termux_xashDS.zip from [Releases](https://github.com/happyhere-2N/termux_xashDS-new-engine-/releases/tag/termux-xashds-49) and extract it on download folder
 >**note**: make sure after extract the zip Must be path like this:
 >download/termux-xash3D/gamelib
 

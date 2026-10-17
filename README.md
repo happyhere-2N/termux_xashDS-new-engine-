@@ -91,7 +91,7 @@ and open termux select what u wont from menu
 
 open cs16client apk and connect to server from console tipe 'connect <urip>:27015' dont connect from LAN server list
 
-# // custem game mode
+# // custom game mode
 
 first select start-server on menu and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
 tipe: './xash -game gamemod..'

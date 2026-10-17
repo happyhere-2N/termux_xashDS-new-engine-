@@ -83,26 +83,18 @@ set maxplayers
 
 set port
 
-[image](https://raw.githubusercontent.com/happyhere-2N/termux_xashDS-new-engine-/refs/heads/main/fixserver.jpg)
+![image](https://raw.githubusercontent.com/happyhere-2N/termux_xashDS-new-engine-/refs/heads/main/fixserver.jpg)
 
 and open termux select what u wont from menu
 
-**//custem game mode** 
+# // how to connect to server
+
+open cs16client apk and connect to server from console tipe 'connect <urip>:27015' dont connect from LAN server list
+
+# // custem game mode
 
 first select start-server on menu and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
 tipe: './xash -game gamemod..'
-
-# // offline or online public server
-
-**-online**  
-if u have wifi  join to router configurate open port set  udp/27015/ip/ and save and open ur server plz dont tipe public 1 to server not crash 
-after that u find ur server in public servers.
-
-if u have mobile data open mobile data and download any forwording port apk and open it set udp/27015/ip/ and save and open ur server plz dont tipe public 1 to server not crash 
-after that u find ur server in public servers.
-
-**-offline**  
-just open mobile data (without internet is working fine) and open ur server  After runing ur server u can find it on LAN servers list
 
 # // Known errors
 

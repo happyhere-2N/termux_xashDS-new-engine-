@@ -73,8 +73,13 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 > if u add any plugins with recources (models , sounds ... ) and runing server with new DS engine dont forget to copy sources's to xash3D data files 
 
 # // how to runing server
-
-just select what u wont from menu
+first go to xash folder and edite the launcher scripts "1-cs_run.sh & 2-hl_run.sh"
+set ip 
+set map
+set maxplayers
+set port
+[image]()
+just select what u wont from menu on termux
 
 **-to** launch any gamemod server hl/cs/bhl/tfc.. u can do that manual first select start-server and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
 tipe: './xash -game gamemod..'

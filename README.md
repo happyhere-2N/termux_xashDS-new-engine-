@@ -1,4 +1,4 @@
-# termux_xashDS (new and old engine)
+# termux_xashDS-49
 
 
 By [termux-xashDS] you can run dedicated server with latest HLDS updates with new engine and old engine DS libs on Android using termux.

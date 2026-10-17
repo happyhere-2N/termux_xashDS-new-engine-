@@ -62,15 +62,15 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 **5 -** setup softwere offline or online:
 
-**A** setup online wget this link:
+   **A** setup online wget this link:
    
     cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/storage/emulated/0/data/data/com.termux/files/home/xashsetup.sh && sh xashsetup.sh
 
 **or**
 
-**B** setup offline download 'setup.tar.gz' from [here]() make sure the tar.gz file on download folder and setup use this code
-
-'tar -zxf /sdcard/download/setup.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions'
+   **B** setup offline: 
+download `setup.tar.gz` from [here]() make sure the tar.gz file on download folder and setup use this code:
+`tar -zxf /sdcard/download/setup.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions`
 
 **6 -** the Installation completed now exit from termux tipe `exit` and open it egain 
 

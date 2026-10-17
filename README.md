@@ -74,14 +74,22 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 # // how to runing server
 first go to xash folder and edite the launcher scripts "1-cs_run.sh & 2-hl_run.sh"
-set ip 
-set map
-set maxplayers
-set port
-[image]()
-just select what u wont from menu on termux
 
-**-to** launch any gamemod server hl/cs/bhl/tfc.. u can do that manual first select start-server and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
+set ip
+
+set map
+
+set maxplayers
+
+set port
+
+[image](https://raw.githubusercontent.com/happyhere-2N/termux_xashDS-new-engine-/refs/heads/main/fixserver.jpg)
+
+and open termux select what u wont from menu
+
+**//custem game mode** 
+
+first select start-server on menu and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
 tipe: './xash -game gamemod..'
 
 # // offline or online public server

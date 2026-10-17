@@ -10,7 +10,7 @@ By [termux-xashDS] you can run dedicated server with latest HLDS updates with ne
 ![Image](https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/head.jpg)
    
 --**choose server_**
-![Image](https://github.com/happyhere-TN/termux_xashDS-new-engine-/blob/main/chooseserver.jpg?raw=true)
+![Image](https://raw.githubusercontent.com/happyhere-2N/termux_xashDS-new-engine-/refs/heads/main/chooseserver.jpg)
 
 
 ![Image](https://github.com/happyhere-TN/termux_xashDS-new-engine-/blob/main/hlbots.jpg?raw=true)

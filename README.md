@@ -62,7 +62,7 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 **5 -** setup softwere offline download `setup.tar.gz` from [here](https://github.com/happyhere-2N/termux_xashDS-new-engine-/releases/download/termux-xashds-49/setup.tar.gz) make sure the tar.gz file on download folder and setup use this code:
    
-    clear && echo "[[ just secounds installing softwere....]]" && tar -zxf /sdcard/download/setup.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions && clear && echo "install finished now exit from termux and open it egain "
+    clear && echo "[[ just secounds installing softwere....]]" && tar -zxf /sdcard/download/setup.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions && clear && echo "install finished now tipe exit to close termux and open it egain "
 
 
 **6 -** the Installation completed now exit from termux tipe `exit` and open it egain 

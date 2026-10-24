@@ -90,7 +90,7 @@ and open termux select what u wont from menu
 
 # // how to connect to server
 
-open cs16client apk and connect to server from console tipe 'connect <urip>:27015' dont connect from LAN server list
+open cs16client apk and connect to server from console tipe 'connect yourip:27015' dont connect from LAN server list
 
 # // custom game mode
 
